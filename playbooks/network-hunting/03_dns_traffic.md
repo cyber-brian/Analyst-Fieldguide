@@ -162,7 +162,6 @@ eyJ0eXAiOiJKV1QiLCJh.attacker.site
 
 - [Zeek DNS Log Reference](https://docs.zeek.org/en/current/scripts/base/protocols/dns/main.zeek.html)
 - [RITA Tool by Active Countermeasures](https://www.activecountermeasures.com/free-tools/rita/)
-- [Passive DNS Lookup (Farsight Security)](https://www.farsightsecurity.com/)
 
 ---
 
