@@ -10,10 +10,10 @@ This playbook provides a modular, hands-on reference for conducting network-base
 - [DNS Traffic Analysis](03_dns_traffic.md)
 - [HTTP Traffic Analysis](04_http_traffic.md)
 - [TLS/SSL Traffic Analysis](05_tls_ssl_traffic.md)
-- [Command & Control Detection](06_c2_detection.md)
-- [IOC Pivoting Techniques](07_ioc_pivoting.md)
-- [Beaconing Detection](08_beaconing_detection.md)
-- [Threat Intel Integration](09_threat_intel_integration.md)
-- [Tools & Techniques](10_tool_usage.md)
+- [Command & Control Detection](06_c2_detection.md) (coming soon)
+- [IOC Pivoting Techniques](07_ioc_pivoting.md)  (coming soon)
+- [Beaconing Detection](08_beaconing_detection.md)  (coming soon)
+- [Threat Intel Integration](09_threat_intel_integration.md)  (coming soon)
+- [Tools & Techniques](10_tool_usage.md)  (coming soon)
 
 Each section includes examples, recommended queries, and links to relevant labs or scripts in this repository.
