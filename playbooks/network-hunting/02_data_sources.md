@@ -161,7 +161,7 @@ Even when traffic is encrypted, TLS metadata reveals useful hunting leads:
 
 - [Zeek Log Cheat Sheet](https://docs.zeek.org/en/current/logs/index.html)
 - [Wireshark Display Filters](https://wiki.wireshark.org/DisplayFilters)
-- [JA3 Fingerprinting](https://engineering.salesforce.com/tls-fingerprinting-with-ja3e425c8a1/)
+- [JA3 Fingerprinting](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/)
 - [Elastiflow](https://www.elastiflow.com/)
 - [DNS Sight - Passive DNS](https://www.farsightsecurity.com/)
 
