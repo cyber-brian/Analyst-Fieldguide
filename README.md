@@ -6,7 +6,7 @@ Welcome to the **Analyst Field Guide**: a practical resource built for cybersecu
 - **Labs**  
   Hands-on exercises across network traffic, endpoint forensics, and malware analysis using PCAPs, logs, and binaries.
 
-- **Handbooks**  
+- **Playbooks**  
   Curated, tool-agnostic guides to help analysts perform effective hunts, investigations, and triage.
 
 - **Tools**  
